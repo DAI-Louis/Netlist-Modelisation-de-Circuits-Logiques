@@ -29,8 +29,8 @@ Pour compiler et exécuter ce projet, vous aurez besoin de :
 ### Avec QMake (Standard Qt)
 ```bash
 # Clonez le dépôt
-git clone [https://github.com/](https://github.com/)DAI-Louis/Netlist-Mod-lisation-de-Circuits-Logiques.git
-cd Netlist-Mod-lisation-de-Circuits-Logiques
+git clone [https://github.com/](https://github.com/)DAI-Louis/Netlist-Modelisation-de-Circuits-Logiques.git
+cd Netlist-Modelisation-de-Circuits-Logiques
 
 # Générez le Makefile
 cd build 
